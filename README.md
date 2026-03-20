@@ -30,3 +30,6 @@
 
 ### ⚡ Fun Fact
 I love building projects and learning new technologies 🚀
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?q=80&w=1200" width="100%" alt="Butterfly aesthetic" />
+</p>
